@@ -1,4 +1,4 @@
-function App() {
+function NavBar() {
 	return (
 		<>
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -70,4 +70,4 @@ function App() {
 		</>
 	);
 }
-export default App;
+export default NavBar;
